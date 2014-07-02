@@ -1,0 +1,1 @@
+"Generates random stock values for a week period, and suggests the days to buy and sell for optimal profit."
